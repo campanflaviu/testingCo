@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Testing Co</title>
+    <link href="https://campanflaviu.github.io/testingCo/feed.xml" rel="self" />
+    <link href="https://campanflaviu.github.io/testingCo" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>Flaviu</name>
+    </author>
+    <id>https://campanflaviu.github.io/testingCo</id>
+
+    <entry>
+        <title>Welcome to Invata engleza</title>
+        <author>
+            <name>Flaviu</name>
+        </author>
+        <link href="https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html"/>
+        <id>https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html</id>
+
+        <updated>2020-07-19T08:54:36+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Cursuri si Meditatii</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Cursuri si Meditatii</p>
+
+<p class="dropcap">bla blalb al</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

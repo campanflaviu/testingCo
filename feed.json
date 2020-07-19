@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Testing Co",
+    "description": "",
+    "home_page_url": "https://campanflaviu.github.io/testingCo",
+    "feed_url": "https://campanflaviu.github.io/testingCo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Flaviu"
+    },
+    "items": [
+        {
+            "id": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html",
+            "url": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html",
+            "title": "Welcome to Invata engleza",
+            "summary": "<p>Cursuri si Meditatii</p>\n",
+            "content_html": "<p>Cursuri si Meditatii</p>\n\n<p class=\"dropcap\">bla blalb al</p>",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-19T08:54:36+03:00",
+            "date_modified": "2020-07-19T08:54:36+03:00"
+        }
+    ]
+}
