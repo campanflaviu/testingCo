@@ -10,6 +10,28 @@
     <id>https://campanflaviu.github.io/testingCo</id>
 
     <entry>
+        <title>About me</title>
+        <author>
+            <name>Flaviu</name>
+        </author>
+        <link href="https://campanflaviu.github.io/testingCo/about-me/"/>
+        <id>https://campanflaviu.github.io/testingCo/about-me/</id>
+
+        <updated>2020-07-19T10:10:57+03:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfsdfsdfsdf asdasd aasd a asd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdfsdfsdfsdf</p>
+<p>asdasd aasd a</p>
+<p>asd</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Welcome to Invata engleza</title>
         <author>
             <name>Flaviu</name>
@@ -17,7 +39,7 @@
         <link href="https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/"/>
         <id>https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/</id>
 
-        <updated>2020-07-19T09:58:08+03:00</updated>
+        <updated>2020-07-19T10:10:57+03:00</updated>
             <summary>
                 <![CDATA[
                     <p>Cursuri si Meditatii</p>

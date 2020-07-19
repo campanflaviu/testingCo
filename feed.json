@@ -5,10 +5,25 @@
     "home_page_url": "https://campanflaviu.github.io/testingCo",
     "feed_url": "https://campanflaviu.github.io/testingCo/feed.json",
     "user_comment": "",
+    "icon": "https://campanflaviu.github.io/testingCo/media/website/nature-3082832_1920.jpg",
     "author": {
         "name": "Flaviu"
     },
     "items": [
+        {
+            "id": "https://campanflaviu.github.io/testingCo/about-me/",
+            "url": "https://campanflaviu.github.io/testingCo/about-me/",
+            "title": "About me",
+            "summary": "sdfsdfsdfsdf asdasd aasd a asd",
+            "content_html": "<p>sdfsdfsdfsdf</p>\n<p>asdasd aasd a</p>\n<p>asd</p>",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-19T10:10:57+03:00",
+            "date_modified": "2020-07-19T10:10:57+03:00"
+        },
         {
             "id": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/",
             "url": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/",
@@ -20,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T09:58:08+03:00",
-            "date_modified": "2020-07-19T09:58:08+03:00"
+            "date_published": "2020-07-19T10:10:57+03:00",
+            "date_modified": "2020-07-19T10:10:57+03:00"
         }
     ]
 }
