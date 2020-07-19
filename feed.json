@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html",
-            "url": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza.html",
+            "id": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/",
+            "url": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/",
             "title": "Welcome to Invata engleza",
             "summary": "<p>Cursuri si Meditatii</p>\n",
             "content_html": "<p>Cursuri si Meditatii</p>\n\n<p class=\"dropcap\">bla blalb al</p>",
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T08:54:36+03:00",
-            "date_modified": "2020-07-19T08:54:36+03:00"
+            "date_published": "2020-07-19T09:58:08+03:00",
+            "date_modified": "2020-07-19T09:58:08+03:00"
         }
     ]
 }
