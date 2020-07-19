@@ -1,15 +1,84 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Testing Co",
+    "title": "English Class",
     "description": "",
     "home_page_url": "https://campanflaviu.github.io/testingCo",
     "feed_url": "https://campanflaviu.github.io/testingCo/feed.json",
     "user_comment": "",
-    "icon": "https://campanflaviu.github.io/testingCo/media/website/nature-3082832_1920.jpg",
     "author": {
         "name": "Flaviu"
     },
     "items": [
+        {
+            "id": "https://campanflaviu.github.io/testingCo/curs-4/",
+            "url": "https://campanflaviu.github.io/testingCo/curs-4/",
+            "title": "Curs 4",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+                   "cursuri"
+            ],
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
+        },
+        {
+            "id": "https://campanflaviu.github.io/testingCo/curs-3/",
+            "url": "https://campanflaviu.github.io/testingCo/curs-3/",
+            "title": "Curs 3",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+                   "cursuri"
+            ],
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
+        },
+        {
+            "id": "https://campanflaviu.github.io/testingCo/curs-2/",
+            "url": "https://campanflaviu.github.io/testingCo/curs-2/",
+            "title": "Curs 2",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+                   "cursuri"
+            ],
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
+        },
+        {
+            "id": "https://campanflaviu.github.io/testingCo/curs-1/",
+            "url": "https://campanflaviu.github.io/testingCo/curs-1/",
+            "title": "Curs 1",
+            "summary": "curs 1",
+            "content_html": "<p>curs 1</p>",
+            "image": "https://campanflaviu.github.io/testingCo/media/posts/7/you-x-ventures-oalh2mojuuk-unsplash-2.jpg",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+                   "cursuri"
+            ],
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
+        },
+        {
+            "id": "https://campanflaviu.github.io/testingCo/homepage-post/",
+            "url": "https://campanflaviu.github.io/testingCo/homepage-post/",
+            "title": "Cursuri &amp; Meditaţii Personalizate",
+            "summary": "Aceste cursuri şi meditaţii sunt personalizate şi adaptate nevoilor diverse ale cursanţilor. Oferim cursuri şi meditaţii de engleză generală, pregătire examene, engleză pentru domenii specifice, pregătire interviuri, engleză conversaţională, etc. Alege cursul potrivit nevoilor tale dintre cele disponibile sau cere o ofertă personalizată în funcţie&hellip;",
+            "content_html": "<p>Aceste cursuri şi meditaţii sunt personalizate şi adaptate nevoilor diverse ale cursanţilor. Oferim cursuri şi meditaţii de engleză generală, pregătire examene, engleză pentru domenii specifice, pregătire interviuri, engleză conversaţională, etc.</p>\n<p> </p>\n<h3 class=\"has-text-weight-semibold is-size-2\">Cursuri şi meditaţii</h3>\n<p>Alege cursul potrivit nevoilor tale dintre cele disponibile sau cere o ofertă personalizată în funcţie de nevoile tale.</p>\n<hr>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; border-style: hidden;\" border=\"0\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\">\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://campanflaviu.github.io/testingCo/media/posts/6/allie-newgpclgezi-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-md.jpg 768w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-lg.jpg 1024w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-xl.jpg 1360w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/allie-newgpclgezi-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"480\" height=\"320\"></figure>\n<p>Cursurile şi meditaţiile online se bazează pe o interacţiune live cu profesorul. Poţi alege între meditaţie individuală, grup 2 persoane sau grup 3 persoane.</p>\n<p><a href=\"https://campanflaviu.github.io/testingCo/curs-1/\">Curs 1</a></p>\n</td>\n<td style=\"width: 50%;\">\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://campanflaviu.github.io/testingCo/media/posts/6/brooke-cagle-uhvrvdr7pg-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-md.jpg 768w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-lg.jpg 1024w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-xl.jpg 1360w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/brooke-cagle-uhvrvdr7pg-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"480\" height=\"320\"></figure>\n<p>Cursurile pentru companii sunt special gândite şi personalizate pentru a întâmpina necesităţile mediului corporate.</p>\n<p><a href=\"https://campanflaviu.github.io/testingCo/curs-2/\">Curs 2</a></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50%;\">\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://campanflaviu.github.io/testingCo/media/posts/6/you-x-ventures-oalh2mojuuk-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-md.jpg 768w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-lg.jpg 1024w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-xl.jpg 1360w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/you-x-ventures-oalh2mojuuk-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"480\" height=\"320\"></figure>\n<p>Engleză conversaţională. În cadrul acesor cursuri sau meditaţii individuale accentul este pus pe practicarea limbii engleze în mod practic prin dezbateri şi conversaţie.</p>\n<p><a href=\"https://campanflaviu.github.io/testingCo/curs-3/\">Curs 3</a></p>\n</td>\n<td style=\"width: 50%;\">\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://campanflaviu.github.io/testingCo/media/posts/6/ben-white-qdy9ahp0mto-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-xs.jpg 300w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-sm.jpg 480w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-md.jpg 768w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-lg.jpg 1024w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-xl.jpg 1360w ,https://campanflaviu.github.io/testingCo/media/posts/6/responsive/ben-white-qdy9ahp0mto-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"480\" height=\"320\"></figure>\n<p>Cursurile pentru copii se desfăşoară în mod interactiv şi folosesc diverse materiale vizuale şi audio îmbinând jocul cu învăţarea în mod activ şi pasiv.</p>\n<p><a href=\"https://campanflaviu.github.io/testingCo/curs-4/\">Curs 4</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>go to <a href=\"https://campanflaviu.github.io/testingCo/about-me/\">About me page</a></p>",
+            "image": "https://campanflaviu.github.io/testingCo/media/posts/6/thisisengineering-raeng-xztscjvolyk-unsplash.jpg",
+            "author": {
+                "name": "Flaviu"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
+        },
         {
             "id": "https://campanflaviu.github.io/testingCo/sdsdgd/",
             "url": "https://campanflaviu.github.io/testingCo/sdsdgd/",
@@ -20,9 +89,10 @@
                 "name": "Flaviu"
             },
             "tags": [
+                   "homepage"
             ],
-            "date_published": "2020-07-19T10:48:00+03:00",
-            "date_modified": "2020-07-19T10:48:00+03:00"
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
         },
         {
             "id": "https://campanflaviu.github.io/testingCo/asdf/",
@@ -30,13 +100,15 @@
             "title": "asdf",
             "summary": "dfsdgfsdfgsd",
             "content_html": "<p>dfsdgfsdfgsd</p>",
+            "image": "https://campanflaviu.github.io/testingCo/media/posts/4/DJI_0226.JPG",
             "author": {
                 "name": "Flaviu"
             },
             "tags": [
+                   "homepage"
             ],
-            "date_published": "2020-07-19T10:48:00+03:00",
-            "date_modified": "2020-07-19T10:48:00+03:00"
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
         },
         {
             "id": "https://campanflaviu.github.io/testingCo/alta-pagina/",
@@ -44,13 +116,15 @@
             "title": "alta pagina",
             "summary": "asdfsfsdf",
             "content_html": "<p>asdfsfsdf</p>",
+            "image": "https://campanflaviu.github.io/testingCo/media/posts/3/DJI_0223.JPG",
             "author": {
                 "name": "Flaviu"
             },
             "tags": [
+                   "homepage"
             ],
-            "date_published": "2020-07-19T10:48:00+03:00",
-            "date_modified": "2020-07-19T10:48:00+03:00"
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
         },
         {
             "id": "https://campanflaviu.github.io/testingCo/about-me/",
@@ -63,8 +137,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T10:48:00+03:00",
-            "date_modified": "2020-07-19T10:48:00+03:00"
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
         },
         {
             "id": "https://campanflaviu.github.io/testingCo/welcome-to-invata-engleza/",
@@ -77,8 +151,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T10:48:00+03:00",
-            "date_modified": "2020-07-19T10:48:00+03:00"
+            "date_published": "2020-07-19T11:35:00+03:00",
+            "date_modified": "2020-07-19T11:35:00+03:00"
         }
     ]
 }
